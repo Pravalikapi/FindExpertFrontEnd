@@ -1,0 +1,57 @@
+h3, .search-container{
+    text-align: center;
+}
+.search-button{
+    background-color: rgb(17, 180, 17);
+    color: white;
+    border: none;
+    width: 80px;
+    height: 30px;
+    margin-left:2px ;
+   
+}
+.search-input{
+    text-align: center;
+}
+.growth{
+    padding: 50px 0px 0px 100px;
+    /* padding-left: 100px; */
+    margin-top: 40px;
+    margin-left: 60px;
+    height: 230px;
+    width: 90%;
+    background-color: rgb(39, 98, 122);
+    color: white;
+}
+img{
+    background-color: blue;
+    margin-top: -180px;
+    height: 200px;
+    width: 200px;
+    margin-left: 600px;
+}
+.para{
+    color: rgb(43, 156, 226);
+    margin-left: 160px;
+    margin-top: 30px;
+}
+.viewallexperts{
+    background-color: rgb(17, 180, 17);
+    color: white;
+    border: none;
+    width: 150px;
+    height: 30px;
+    margin-left:10px ;
+
+   
+}
+.knowmore{
+    background-color: rgb(17, 180, 17);
+    color: white;
+    border: none;
+    width: 150px;
+    height: 30px;
+    margin-left:10px ;
+
+}
+
